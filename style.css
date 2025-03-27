@@ -9,7 +9,11 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color:darkcyan;}
+    background-color:darkcyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url(fondo.png);
+    background-size: cover;
+}
     
   
   .header {
@@ -44,4 +48,7 @@ input {
 }
 form{
     margin-bottom: 2%;
+}
+.BotonSubmit{
+   font-size: xx-large;
 }
