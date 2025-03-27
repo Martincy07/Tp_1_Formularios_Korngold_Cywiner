@@ -26,7 +26,7 @@
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     padding: 30px;
-    width: 100%;
+    height: 36%;
     max-width: 400px;
    
 }
@@ -41,4 +41,7 @@ input {
     font-weight: bold;
     margin-bottom: 1%;
     color: #555;
+}
+form{
+    margin-bottom: 2%;
 }
